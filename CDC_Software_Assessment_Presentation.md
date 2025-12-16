@@ -385,14 +385,16 @@ December 15, 2025
 
 | Dimension | taxprofiler | rvdb-viral | MLMVD-nf | nf-core/mag | GOTTCHA2 | CLARK | sourmash | KrakenMetaReads |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Known Virus Sensitivity** | 5 | 4 | 2 | 2 | 3 | 3 | 3 | 3 |
+| **Known Virus Sensitivity** | 5 | 4 | 2 | 2* | 3 | 3 | 3 | 3 |
 | **Distant Virus Discovery** | 3 | 5 | 3 | 4 | 1 | 1 | 2 | 3 |
-| **Specificity** | 3 | 3 | 5 | 4 | 5 | 4 | 4 | 3 |
+| **Specificity** | 3 | 3 | 5 | 4* | 5 | 4 | 4 | 3 |
 | **Result Reliability** | 4 | 4 | 4 | 5 | 4 | 3 | 4 | 4 |
 | **Analysis Speed** | 3 | 1 | 2 | 1 | 4 | 5 | 5 | 3 |
 | **Memory Efficiency** | 2 | 3 | 3 | 2 | 4 | 2 | 5 | 2 |
 | **Genome Reconstruction** | 1 | 5 | 2 | 5 | 1 | 1 | 1 | 4 |
 | **Engineering Maturity** | 5 | 5 | 4 | 5 | 3 | 3 | 4 | 5 |
+
+\* nf-core/mag scores are **indirect assessments** via MAG reconstruction and classification, not direct read-level detection. High specificity comes from MAG QC evidence chain (CheckM/GUNC/coverage), not read-level classification.
 
 ---
 
@@ -475,4 +477,5 @@ Full Assessment Report: `metagenome_viral_tool_assessment_rev5.md`
 ---
 
 **End of Presentation. Thank You!**
+
 
