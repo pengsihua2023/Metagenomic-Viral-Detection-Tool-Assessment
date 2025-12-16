@@ -305,23 +305,7 @@ December 15, 2025
 
 ---
 
-## Slide 18: Sensitivity vs. Specificity Trade-off
-
-| Tool | Default Sensitivity | Default Specificity | Specificity Improvement After Consensus |
-|:---|:---:|:---:|:---:|
-| **taxprofiler** | High | Medium | High |
-| **GOTTCHA2** | Medium-Low | High | Medium |
-| **sourmash** | Medium | Medium-High | Medium |
-| **CLARK** | Medium | High | Medium |
-| **rvdb-viral** | High | Medium | High |
-| **MLMVD-nf** | Low | Very High | - |
-| **KrakenMetaReads-nf** | Medium | Medium | Medium-High |
-
-**Key Point**: Differences between default output and consensus/threshold output
-
----
-
-## Slide 19: Computational Resources and Engineering Costs
+## Slide 18: Computational Resources and Engineering Costs
 
 ### Resource Consumption Categories
 
@@ -344,7 +328,7 @@ December 15, 2025
 
 ---
 
-## Slide 20: Database is the "Invisible Deciding Factor"
+## Slide 19: Database is the "Invisible Deciding Factor"
 
 ### Impact of Database Selection
 
@@ -359,7 +343,7 @@ December 15, 2025
 
 ---
 
-## Slide 21: False Positive Control Strategies
+## Slide 20: False Positive Control Strategies
 
 ### Minimum Essential Strategy (Strongly Recommended)
 
@@ -381,7 +365,7 @@ December 15, 2025
 
 ---
 
-## Slide 22: Decision Matrix (Scores 1-5)
+## Slide 21: Decision Matrix (Scores 1-5)
 
 | Dimension | taxprofiler | rvdb-viral | MLMVD-nf | nf-core/mag | GOTTCHA2 | CLARK | sourmash | KrakenMetaReads |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -398,7 +382,7 @@ December 15, 2025
 
 ---
 
-## Slide 23: Recommended Solution One
+## Slide 22: Recommended Solution One
 
 ### High-Confidence Consensus and Benchmark Analysis
 
@@ -417,7 +401,7 @@ December 15, 2025
 
 ---
 
-## Slide 24: Recommended Solutions Two & Three
+## Slide 23: Recommended Solutions Two & Three
 
 ### Solution Two: Emerging/Outbreak Pathogen Discovery
 
@@ -437,7 +421,7 @@ taxprofiler (batch screening) → GOTTCHA2 (confirmation) → KrakenMetaReads-nf
 
 ---
 
-## Slide 25: Final Recommendations and Conclusions
+## Slide 24: Final Recommendations and Conclusions
 
 ### Core Recommendations
 
@@ -459,7 +443,7 @@ taxprofiler (batch screening) → GOTTCHA2 (confirmation) → KrakenMetaReads-nf
 
 ---
 
-## Slide 26: Acknowledgments and Contact Information
+## Slide 25: Acknowledgments and Contact Information
 
 ### Acknowledgments
 
@@ -477,5 +461,6 @@ Full Assessment Report: `metagenome_viral_tool_assessment_rev5.md`
 ---
 
 **End of Presentation. Thank You!**
+
 
 
