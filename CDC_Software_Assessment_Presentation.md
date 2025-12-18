@@ -110,7 +110,7 @@ December 15, 2025
 
 1. **Direct Read Classification**
    - taxprofiler (Kraken2/Bracken)
-   - CLARK, GOTTCHA2
+   - CLARK, GOTTCHA2, sourmash
 
 2. **Contig Classification After Assembly**
    - KrakenMetaReads-nf
@@ -486,6 +486,7 @@ Full Assessment Report: `metagenome_viral_tool_assessment_rev5.md`
 ---
 
 **End of Presentation. Thank You!**
+
 
 
 
