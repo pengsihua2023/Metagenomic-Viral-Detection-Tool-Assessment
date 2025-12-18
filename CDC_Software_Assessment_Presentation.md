@@ -1,4 +1,4 @@
-# Metagenomic Viral Detection Tool Assessment Report
+   # Metagenomic Viral Detection Tool Assessment Report
 ## Presentation for CDC Expert Review
 
 **Author**: Sihua Peng  
@@ -250,9 +250,9 @@ December 15, 2025
 **Positioning**: Strict filter (achieving higher specificity at the expense of sensitivity)
 
 **Database:** 
-    1. DeepVirFinder does not rely on any viral reference sequence database.
-    2. VirSorter2: VirSort2 database with 12 Gb. It mainly consists of viral sequences + a small amount of non-viral training data.
-    3. viralFlye: Pfam database
+     - 1. DeepVirFinder does not rely on any viral reference sequence database.
+    - 2. VirSorter2: VirSort2 database with 12 Gb. It mainly consists of viral sequences + a small amount of non-viral training data.
+    - 3. viralFlye: Pfam database
 
 **Strategy**: VirSorter2 + DeepVirFinder + viralFlye voting
 
@@ -480,6 +480,7 @@ Full Assessment Report: `metagenome_viral_tool_assessment_rev5.md`
 ---
 
 **End of Presentation. Thank You!**
+
 
 
 
