@@ -251,9 +251,9 @@ December 15, 2025
 
 **Database:** 
   
-- 1. DeepVirFinder does not rely on any viral reference sequence database.  
-- 2. VirSorter2: VirSort2 database with 12 Gb. It mainly consists of viral sequences + a small amount of non-viral training data.  
-- 3. viralFlye: Pfam database  
+- DeepVirFinder does not rely on any viral reference sequence database.  
+- VirSorter2: VirSort2 database with 12 Gb. It mainly consists of viral sequences + a small amount of non-viral training data.  
+- viralFlye: Pfam database  
 
 **Strategy**: VirSorter2 + DeepVirFinder + viralFlye voting
 
@@ -481,6 +481,7 @@ Full Assessment Report: `metagenome_viral_tool_assessment_rev5.md`
 ---
 
 **End of Presentation. Thank You!**
+
 
 
 
