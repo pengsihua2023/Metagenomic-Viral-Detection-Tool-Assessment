@@ -9,7 +9,8 @@ This file provides a slide-style presentation summarizing the assessment.
 ## [Wastewater Metagenomic Viral Detection Tool Assessment-1218-updated.pptx](https://github.com/pengsihua2023/Metagenomic-Viral-Detection-Tool-Assessment/blob/main/Wastewater%20Metagenomic%20Viral%20Detection%20Tool%20Assessment-1218-updated.pptx)
 This PowerPoint file contains the presentation slides for the assessment.
 
-## [Meeting_Minutes_Evaluation.md]
+## [Meeting_Minutes_Evaluation.md](https://github.com/pengsihua2023/Metagenomic-Viral-Detection-Tool-Assessment/blob/main/Meeting_Minutes_Evaluation.md)
+This is the meeting minutes of the evaluation meeting.  
 
 
 
