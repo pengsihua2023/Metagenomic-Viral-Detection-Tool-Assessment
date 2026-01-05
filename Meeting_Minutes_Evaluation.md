@@ -2,7 +2,7 @@
 
 **Date:** 12:00PM, 12/18/2025   
 **Meeting Type:** Evaluation Meeting  
-**Participants:** Bahl, Peng, John, Jason, Ana, and others  
+**Participants:** Bahl, John, Jason, Ana, Peng, and others  
 **Duration:** 1 Hour  
 
 ---
