@@ -2,7 +2,7 @@
 
 **Date:** 12:00PM, 12/18/2025   
 **Meeting Type:** Evaluation Meeting  
-**Participants:** Bahl, John, Jason, Ana, Peng, and others  
+**Participants:** Bahl,Justin; Cornforth, Daniel; Lorentz, Benjamin; Barnes，John R; Goraichuk, Iryna; Caravas, Jason; Taibl, Kaitlin; and Peng, Sihua.  
 **Duration:** 1 Hour  
 
 ---
